@@ -1,3 +1,5 @@
+2024.10.28 - 도커 이미지 빌드를 위해 requirements.txt 수정
+
 # ComfyUI Layer Style
 
 [中文说明点这里](./README_CN.MD)    
