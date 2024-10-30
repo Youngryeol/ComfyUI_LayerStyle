@@ -5,6 +5,7 @@ matplotlib
 Scipy
 scikit_image
 scikit_learn
+opencv-python
 opencv-contrib-python
 pymatting
 segment_anything
